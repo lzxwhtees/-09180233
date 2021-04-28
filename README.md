@@ -1,13 +1,15 @@
 #欢迎来到刘子雄的专业英语作业
 #### 
->科比是历史上最伟大的篮球运动员之一
-![](/pic.jpg 'Luo Xiaohei')
-birthday|age|race|ability
+科比是历史上最伟大的篮球运动员之一
+![](/kebi.jpg)
+
+
+birthday|age
 :-:|:-:|:-:|:-:
-Standing November 1st |10|	Goblin|Space System-Domain<br>Space System-Teleportation
+1978 42
 ---
 
-~~The small black tail can split many times, usually into 4 black hoops. Similar to Xiao Hei, a separate conscious body that can think on its own.~~
+
 
 ```
 <div>
